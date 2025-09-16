@@ -1,3 +1,5 @@
+package test_d;
+import lab2.DataTypes;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
